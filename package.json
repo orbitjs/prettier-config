@@ -1,0 +1,9 @@
+{
+  "name": "@orbit/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config shared by Orbit packages",
+  "author": "Dan Gebhardt <dan@cerebris.com>",
+  "repository": "https://github.com/orbitjs/prettier-config",
+  "license": "MIT",
+  "main": "index.js"
+}
